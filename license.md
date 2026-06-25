@@ -9,7 +9,7 @@ The **📊 QuickBooks Accounting Software** is a comprehensive financial managem
 
 <div align="center">
 
-[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/quickbooks-accounting-software)
+[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/quickbooks-accounting-software)
 
 </div>
 
@@ -110,7 +110,7 @@ You need reliable financial management tools. Without high monthly costs.
 6. **🏢 Create Company File** — enter business information
 7. **📝 Start Managing** — begin tracking finances
 
-[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/quickbooks-accounting-software)
+[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/quickbooks-accounting-software)
 
 ### Setting Up Your Company
 
@@ -203,7 +203,7 @@ Professional accounting software for your business. **QuickBooks Accounting Soft
 
 <div align="center">
 
-[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://tinyurl.com/quickbooks-accounting-software)
+[![Download QuickBooks Accounting Software](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/quickbooks-accounting-software)
 
 **Version 4.6.1** — Professional accounting. Free forever.
 
